@@ -1,6 +1,5 @@
 #!/bin/bash
 
-NAMESOFTHEEMPLOYES=("kona" "puli" "dekka" "bomma" "namala" "karumuri" "bolledhu")
+EMPLOYES=("kona" "puli" "dekka" "bomma" "namala" "karumuri" "bolledhu")
 
-
-echo "all value :: ${[@]}"
+echo "first value:: ${[0]}"
