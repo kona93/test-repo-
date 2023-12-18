@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EMPLOYES=("kona "23" "puli "56" "dekka "43" "bomma "43" "namala "32" "karumuri "65" "bolledhu"45")
+EMPLOYES=("kona "0" "puli "1" "dekka "2" "bomma "3" "namala "4" "karumuri "5" "bolledhu"6")
 
 echo "first value :: ${[0]}"
